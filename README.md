@@ -28,11 +28,13 @@ Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--
   ```
     $ vagrant ssh
   ```
-3. Then Run python database_fill.py to fill some data in the database
+3. Put application locally in the vagrant/catalog directory (which will automatically be synced to /vagrant/catalog within   the VM).
 
-4. Then Run python project.py to run the server
+4. Then Run python database_fill.py to fill some data in the database
 
-5. open the app by visiting http://localhost:5000/
+5. Then Run python project.py to run the server
+
+6. open the app by visiting http://localhost:5000/
 
 ## Copyright and License
 
