@@ -9,7 +9,7 @@
 - [Copyright and license](#copyright-and-license)
  
 ## Description
-An application that provides a list of items within a variety of categories as well as provides a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items,this project is a part of the Udacity [Full Stack Web Developer
+An application that provides a list of items within a variety of categories as well as provides a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items, this project is a part of the Udacity [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ## Required Libraries and Dependencies
